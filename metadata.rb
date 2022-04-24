@@ -1,0 +1,8 @@
+name 'WebServer'
+maintainer 'Samarth Pant'
+maintainer_email 'samarth1pant2@gmail.com'
+license 'All Rights Reserved'
+description 'Installs/Configures WebServer'
+long_description 'Installs/Configures WebServer'
+version '0.1.0'
+chef_version '>= 14.0'
